@@ -6,8 +6,14 @@ X-Omega-Hack / README.md
 │                                         │
 │ ```bash                                 │
 │ pip install dnspython                 
-│ pkg install python-pip                  │     
-│ pip install dnspython                   │
+│ pkg install python-pip                  
+│ pip install dnspython   
+
+│git clone 
+https://github.com/karbitzz/X-Omega-Hack.git
+
+cd X-Omega-Hack
+
 │ python omega.py                         │
 │ ```                                     │
 └─────────────────────────────────────────┘
